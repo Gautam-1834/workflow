@@ -1,4 +1,4 @@
-name: MirrorBot Environment
+name: MusicBot Environment
 
 on:
   push:
@@ -8,8 +8,8 @@ on:
    
 env:
   # Change these values if you have forked it for your own works
-  GitHubMail: "gautampro1834@gmail.com"
-  GitHubName: "Gautampro1834" 
+  GitHubMail: "18gautam304@gmail.com"
+  GitHubName: "Gautam1834" 
 
 jobs:
   build:
